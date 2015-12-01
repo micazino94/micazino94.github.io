@@ -13,7 +13,7 @@ window.open("fees.html","Popup","height=300,width=300,top=200,left=400");
  <style>
     body{
     text-align:center;
-    font-family: "lucida Sans Unicode",sans-serif;
+    font-family: 'Poiret One', cursive;
     background-image:url(https://static.pexels.com/photos/6662/creative-smartphone-notebook-typography.jpg);
     background-size: cover;
    }
@@ -34,15 +34,11 @@ window.open("fees.html","Popup","height=300,width=300,top=200,left=400");
   }
   
   h1{
-   font-family: 'Crimson Text', serif;
-    text-align:center;
+font-family: 'Poiret One', cursive;    
+text-align:center;
 	color: black;
   }
   #what-i-do{
- 	background: #C9FFBF /* fallback for old browsers */
-background: -webkit-linear-gradient(to left, #C9FFBF , #FFAFBD); /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to left, #C9FFBF , #FFAFBD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-   /*clearing floats*/
    overflow: hidden;
    padding: 20px;
   }
@@ -60,7 +56,7 @@ color:black;
       float: left;
       background-color: #EDEDED;
       margin: 5px;
-      height: 150px;
+      height: 100px;
       border-radius: 3px;
     }
     #who-i-am{
@@ -95,7 +91,7 @@ background: linear-gradient(to left, #C9FFBF , #FFAFBD); /* W3C, IE 10+/ Edge, F
 	overflow:hidden;
 }
 .one-third{
-	width: 300px;
+	width:250px;
 	float: left;
 	text-align: justify;
 }
@@ -117,6 +113,10 @@ background: linear-gradient(to left, #C9FFBF , #FFAFBD); /* W3C, IE 10+/ Edge, F
         
 }
     </style>
+    
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.0/jquery.magnific-popup.min.js"></script>
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.0/magnific-popup.min.css" rel="stylesheet">
     </head>
    <body>
 <header> <img src="http://i.imgur.com/s9RO4YA.png?1" alt="MIU Web Logo"> 
@@ -132,7 +132,8 @@ background: linear-gradient(to left, #C9FFBF , #FFAFBD); /* W3C, IE 10+/ Edge, F
 
 <article>
 <i class="fa fa-laptop fa-2x"></i>
-  <h1>Portfolio</h1></article>
+  <h1>Portfolio</h1>
+  <h1><a class="test-popup-link" href="http://i.imgur.com/HsKgHSM.jpg"></a></h1></article>
 <article>
 <i class="fa fa-mobile fa-2x"></i>
   <h1>About Me</h1></article>
@@ -146,7 +147,7 @@ background: linear-gradient(to left, #C9FFBF , #FFAFBD); /* W3C, IE 10+/ Edge, F
 <h1>Who I am</h1>
     <img src="http://i.imgur.com/uciD4rB.jpg" width="150">
   <p>
-    I am a current  student at the Miami International University of Art & Design. Bachelor in Graphic Design.I am born and raised in Miami. .</p></article>
+    I am a current  student at the Miami International University of Art & Design. Bachelor in Graphic Design. I am born and raised in Miami. .</p></article>
 </div>
 </section>
 
@@ -164,9 +165,7 @@ background: linear-gradient(to left, #C9FFBF , #FFAFBD); /* W3C, IE 10+/ Edge, F
 </section>
 <section id="my-latest-work">
 <h1>My Latest Work</h1>
-<img src="http://i.imgur.com/4FFi0PD.png?1" alt="dance poster">
-<img src="http://i.imgur.com/ov3sF0A.jpg?2" alt="movie poster">
-<img src="http://i.imgur.com/Hd3gLp7.jpg?1" alt="magazine cover">
+<iframe src="http://snapwidget.com/sc/?u=bWljYV9wb3J0Zm9saW8xfGlufDE1MHwzfDN8fG5vfDV8bm9uZXxvblN0YXJ0fHllc3xubw==&ve=011215" title="Instagram Widget" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:500px; height:150px"></iframe>
 </section>
 <section id="my-resume">
 <h1>My Resume</h1>
@@ -176,4 +175,9 @@ background: linear-gradient(to left, #C9FFBF , #FFAFBD); /* W3C, IE 10+/ Edge, F
  <a href="https://www.facebook.com/micaela.zino"><i class="fa fa-facebook-official"></i></a>
  <a href="https://instagram.com/mica_zino/"><i class="fa fa-instagram"></i></a>
 </footer>
+<script> $('.test-popup-link').magnificPopup({
+  type: 'image'
+  // other options
+});
+</script>
 </body>
