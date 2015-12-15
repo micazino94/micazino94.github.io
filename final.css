@@ -1,6 +1,6 @@
 @charset "utf-8";
 .nav a {
-  color: #5a5a5a;
+  color: #black;
   font-size: 15px;
   font-weight: bold;
   padding: 14px 10px;
@@ -27,7 +27,7 @@
   color: #fff;
   font-size: 40px;  
  font-family: 'Hind', sans-serif;
-  font-weight: bold;
+  font-weight: regular;
 }
 
 .jumbotron p {
