@@ -28,11 +28,11 @@
 
 .jumbotron p {
   font-size: 25px;
-  color: #white;
+  color: white;
 }
 
 .learn-more {
-  background-image: url("https://static.pexels.com/photos/247/city-cars-vehicles-street.jpg");
+  background-image: url(https://static.pexels.com/photos/1380/black-and-white-city-skyline-buildings.jpg);
 }
 
 .learn-more h3 {
@@ -42,7 +42,7 @@
 }
 
 .learn-more a {
-  color: #white;
+  color: white;
 }
 
 .neighborhood-guides{
@@ -52,11 +52,11 @@
 
 .neighborhood-guides h2{
     color: #393c3d;
-    font-size: 20px;
+    font-size: 25px;
 
 }
 
 .neighborhood-guides p{
-     font-size: 20px;
+     font-size: 25px;
     margin-bottom: 13px;    
 }/* CSS Document */
