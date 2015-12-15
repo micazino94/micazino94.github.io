@@ -28,11 +28,11 @@
 
 .jumbotron p {
   font-size: 25px;
-  color: #00b0ff;
+  color: #white;
 }
 
 .learn-more {
-  background-color: #f7f7f7;
+  background-color: #white;
 }
 
 .learn-more h3 {
@@ -42,7 +42,7 @@
 }
 
 .learn-more a {
-  color: #00b0ff;
+  color: #white;
 }
 
 .neighborhood-guides{
