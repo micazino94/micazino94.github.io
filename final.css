@@ -22,7 +22,7 @@
 .jumbotron h1 {
   color: #00b0ff;
   font-size: 40px;  
- font-family: 'Hind', sans-serif;
+ font-family: 'ABeeZee', sans-serif;
   font-weight: regular;
 }
 
@@ -32,11 +32,11 @@
 }
 
 .learn-more {
-  background-color: #white;
+  background-image: url("https://static.pexels.com/photos/247/city-cars-vehicles-street.jpg");
 }
 
 .learn-more h3 {
-  font-family: 'Hind', sans-serif;
+  font-family: 'ABeeZee', sans-serif;
   font-size: 25px;
   font-weight: bold;
 }
@@ -60,4 +60,3 @@
      font-size: 20px;
     margin-bottom: 13px;    
 }/* CSS Document */
-
