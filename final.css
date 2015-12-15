@@ -1,6 +1,6 @@
 @charset "utf-8";
 .nav a {
-  color: #black;
+  color: #white;
   font-size: 15px;
   font-weight: bold;
   padding: 14px 10px;
@@ -60,3 +60,4 @@
      font-size: 20px;
     margin-bottom: 13px;    
 }/* CSS Document */
+
