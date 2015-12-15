@@ -18,13 +18,9 @@
   background-size: cover;
 }
 
-.jumbotron .container {
-  position: relative;
-  top:100px;
-}
 
 .jumbotron h1 {
-  color: #fff;
+  color: #00b0ff;
   font-size: 40px;  
  font-family: 'Hind', sans-serif;
   font-weight: regular;
@@ -32,7 +28,7 @@
 
 .jumbotron p {
   font-size: 25px;
-  color: #fff;
+  color: #00b0ff;
 }
 
 .learn-more {
@@ -64,4 +60,3 @@
      font-size: 20px;
     margin-bottom: 13px;    
 }/* CSS Document */
-
