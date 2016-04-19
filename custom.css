@@ -1,0 +1,15 @@
+body {
+	text-align: center;
+}
+
+ul{
+	list-style: none;
+}
+
+header{
+	color: #F7E3E6;
+	padding: 20px;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://static.pexels.com/photos/62277/pexels-photo-62277.jpeg);
+	background-size: cover;
+}
+
