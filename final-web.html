@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Final Project</title>
+	<link href='https://fonts.googleapis.com/css?family=Lato:400,300,700,900' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<style>
+body{
+	padding:0;
+	margin: 0;
+	color:#000;
+	font-family: 'Lato', sans-serif;
+	background: #2BC0E4; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, #2BC0E4 , #EAECC6); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #2BC0E4 , #EAECC6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.container {
+    margin: 0 auto;
+    overflow: hidden;
+    padding-bottom: 100px;
+    width: 960px;
+}
+
+header {
+	padding:20px 20px;
+	background: #f9f9f9;
+}
+
+header img {
+	color:#000;
+	font-weight:bold;
+	text-decoration: none;
+}
+
+header ul a {
+	color:#000;
+	font-size: 14px;
+	text-decoration: none;
+}
+
+header ul a:hover {
+	color:#4ac2be;
+}
+
+header li {
+	float: left;
+	overflow: hidden;
+	padding: 0 5px;
+}
+
+header ul {
+float: right;
+padding: 0;
+margin: 0
+}
+
+.info {
+    overflow: hidden;
+    padding: 15px;
+}
+
+.info li {
+	display: block;
+	float: left;
+}
+
+.info li.text {
+	width: 75%;
+	text-align: justify;
+	padding-right: 30px;
+	box-sizing: padding-box;
+}
+
+.info li.profile {
+	width: 25%;
+	height: 250px;
+}
+
+.gallery > li {
+    float: left;
+    list-style: outside none none;
+    text-align: center;
+    width: 25%;
+}
+
+.gallery > li img {
+    filter: grayscale(100%);
+    transition: filter 1s;
+}
+
+.gallery > li img:hover {
+    filter: grayscale(0%);
+    transition: filter 1s;
+}
+
+h2 {
+    background: #f9f9f9 none repeat scroll 0 0;
+    padding: 15px;
+    text-align: center;
+}
+
+.contactbutton {
+    background: #f9f9f9 none repeat scroll 0 0;
+    left: -30px;
+    padding: 10px;
+    position: absolute;
+    top: 50%;
+    transform: rotate(90deg);
+}
+
+
+</style>
+</head>
+
+<body>
+	<div class="container">
+		<header>
+		<img src="http://i.imgur.com/0ZdQVQp.png?1" alt="logo" width="150px" class="wow fadeInLeft">
+		<ul>
+			<li><a href="/index.html">Home</a></li>
+			<li><a href="#about">About</a></li>
+			<li><a href="#gallery">Gallery</a></li>
+		</ul>
+		</header>
+
+		<div class="row">
+			<h2 id="about">About Me</h2>
+			<ul class="info">
+				<li class="text"><p>I am a current student at the Miami International University of Art and Design. Bachelor in Graphic Design. I am born and raised in Miami. I will take the time that is needed to get to you and your project. We can meet at my office or anywhere you feel comfortable to review the process of your project.<br> I prefer to start a new project and all the details that are contained in with a personal meeting. Meet me in my office in Aventura or I'll come to you as long as you are in the area of South Miami. After our initial meeting, you will receive a project proposal within less than 48 hours. The project proposal will contain the project timeline as well as the full quote. Check out my fees here.</p></li>
+				<li class="profile"><img src="http://i.imgur.com/pkRi8Uu.jpg?1" alt=""></li>
+			</ul>
+		</div>
+
+		<div class="row">
+			<h2 id="gallery">Gallery</h2>
+			<ul class="gallery">
+				<li><img src="http://i.imgur.com/pa3cijp.jpg" alt="" class="wow fadeInUp"></li>
+				<li><img src="http://i.imgur.com/gBQNCuj.jpg" alt="" class="wow fadeInUp"></li>
+				<li><img src="http://i.imgur.com/VyPfv1Q.jpg" alt="" class="wow fadeInUp"></li>
+				<li><img src="http://i.imgur.com/YRyvar0.jpg" alt="" class="wow fadeInUp"></li>
+			</ul>
+		</div>
+
+	</div>
+	<a href="mailto:Micaz_1994@hotmail.com" class="contactbutton">Contact Me</a>
+
+	<script>
+		new WOW().init();
+	</script>
+</body>
+</html>
