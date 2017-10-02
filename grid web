@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>class1</title>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+</head>
+
+<body>
+<div class= "container">
+  <div class="row">
+    <div class= "col-lg-12">
+      <h1 class="text-center">Welcome to Grid Systems</h1>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-lg-6"><img class="img-responsive"
+	src="http://www.trbimg.com/img-58f8f855/turbine/sd-saidso-children-at-play-20170420"
+	alt="" height="300"></div>
+    <div class="col-lg-6"><img class="img-responsive"
+	src="http://www.goldsgym.com/redmondwa/wp-content/uploads/sites/702/2016/02/cute_kids_cute_play-wide.jpg"
+	alt="" height="300"></div>
+  </div>
+  <div class="row">
+    <div class="col-lg-4"><img class="img-responsive"
+	src="https://www.compliancesigns.com/media/NH/recreation-swim/1000/Playground-Sign-NHE-15523_1000.gif"
+	alt="" height="300"></div>
+    <div class="col-lg-4"><img class="img-responsive"
+	src="https://www.compliancesigns.com/media/NH/recreation-swim/1000/Playground-Sign-NHE-15523_1000.gif" alt="" height="300"></div>
+    <div class="col-lg-4"><img class="img-responsive"
+	src="https://www.compliancesigns.com/media/NH/recreation-swim/1000/Playground-Sign-NHE-15523_1000.gif" alt="" height="300"></div>
+  </div>
+</div>
+<div class="row">
+	<div class="col-lg-4"><img class="img-responsive" src="https://learning.health.act.gov.au/pluginfile.php/106/course/summary/Kids%20At%20Play%20Active%20Play%20Logo.png" alt="" height="300"></div>
+	<div class= "col-lg-8"> 
+	<div class="row">
+	<div class="col-lg-6"><img class="img-responsive"
+	src="https://lh3.googleusercontent.com/DQCpuf7jY75euQcxAjyGSSZGOYbm_WDD0VlY_cx2NNEMFO9nr9LeCwt9zJhCyXHx3w=h900" alt="" height="300"> </div>
+	<div class="col-lg-6"><img class="img-responsive"
+	src="http://www.lincolnschoolpta.org/_/rsrc/1438694527986/news-announcements/kindergartenplaydateaugust12from1-2pm/kindergarten-banner.jpg" alt="" height="300"> </div>
+	<div class="col-lg-12"><img class="img-responsive"
+	src="http://www.kids-at-play.com/wp-content/uploads/2016/06/Kids-Jumping.jpg" alt="" height="300">
+</div>
+	
+</div>
+
+</div>
+
+<!-- Latest compiled and minified JavaScript --> 
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+</body>
+</html>
