@@ -1,0 +1,60 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="micamuse.com" resolutions="1x" timestamp="1509375419981">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="331172330" ref="contact:resume:about:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="499289745" ref="contact:resume:about:index"/>
+    <file name="contact.css" crc="294653590" ref="contact"/>
+    <file name="nomq_contact.css" crc="100997409" ref="contact"/>
+    <file name="resume.css" crc="184373556" ref="resume"/>
+    <file name="nomq_resume.css" crc="3914586206" ref="resume"/>
+    <file name="about.css" crc="256215442" ref="about"/>
+    <file name="nomq_about.css" crc="3869511270" ref="about"/>
+    <file name="index.css" crc="244153813" ref="index"/>
+    <file name="nomq_index.css" crc="444391379" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="resume.docx" crc="113451451" seo="true" mt="1509370308000"/>
+    <file name="pexels-photo-316465.jpg" crc="427877604" seo="true" mt="1509373994000"/>
+    <file name="color-umbrella-red-yellow-163822.jpg" crc="4056158970" seo="true" mt="1509374040000"/>
+    <file name="pexels-photo-243221.jpg" crc="259287213" seo="true" mt="1509374076000"/>
+    <file name="pexels-photo-207665.jpg" crc="455748762" seo="true" mt="1509374011000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:contact:resume"/>
+    <file name="museutils.js" crc="163421577" ref="index:about:contact:resume"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:contact:resume"/>
+    <file name="museconfig.js" crc="168988563" ref="index:about:contact:resume"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:about:contact:resume"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:about:contact:resume"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:about:contact:resume"/>
+    <file name="webpro.js" crc="3848665353" ref="index:about:contact:resume"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index:about:contact:resume"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:contact:resume"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:about:contact:resume"/>
+    <file name="require.js" crc="244322403" ref="index:about:contact:resume"/>
+    <file name="form_check.php" crc="158155501" ref="contact"/>
+    <file name="form_throttle.php" crc="3992970984" ref="contact"/>
+    <file name="form_process.php" crc="4078697226" ref="contact"/>
+    <file name="form-u287.php" crc="4045797221" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="pexels-photo-461039new2280x1520.jpg" crc="318830179" ref="index"/>
+    <file name="pexels-photo-461039new1536x1024.jpg" crc="3780250232" ref="index"/>
+    <file name="pexels-photo-461039new640x427.jpg" crc="3846397066" ref="index"/>
+    <file name="unadjustednonraw_thumb_81a2.jpg" crc="3845235813" seo="true" ref="about"/>
+    <file name="pexels-photo-3496092280x1752.jpg" crc="212703431" ref="about"/>
+    <file name="pexels-photo-3496091536x1180.jpg" crc="3984876940" ref="about"/>
+    <file name="pexels-photo-349609640x492.jpg" crc="4050440782" ref="about"/>
+    <file name="blank.gif" crc="4208392903" ref="about:contact:resume"/>
+    <file name="pexels-photo-3173552280x1509.jpg" crc="22699711" ref="contact"/>
+    <file name="pexels-photo-3173551536x1016.jpg" crc="78057643" ref="contact"/>
+    <file name="pexels-photo-317355640x423.jpg" crc="268370346" ref="contact"/>
+    <file name="pexels-photo-349609.jpg" crc="212703431" ref="resume"/>
+    <file name="pexels-photo-3496091536x11802.jpg" crc="4084616809" ref="resume"/>
+    <file name="pexels-photo-349609640x4922.jpg" crc="257852515" ref="resume"/>
+  </folder>
+  <file name="index.html" crc="312170684" seo="true" mt="1509375387026" redirect="true"/>
+  <file name="about.html" crc="226283498" seo="true" mt="1509375387026" redirect="true"/>
+  <file name="contact.html" crc="7527719" seo="true" mt="1509375387026" redirect="true"/>
+  <file name="resume.html" crc="118263515" seo="true" mt="1509375387026" redirect="true"/>
+</manifest>
