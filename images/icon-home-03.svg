@@ -1,0 +1,37 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 83.52 77.107">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #92cf5e;
+      }
+
+      .cls-2 {
+        fill: #598945;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #282828;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <title>85c5894b-d31d-42d3-b65e-1ccfca7d661b</title>
+  <circle class="cls-1" cx="36.511" cy="16.891" r="15.391"/>
+  <circle class="cls-1" cx="57.902" cy="48.391" r="7.25"/>
+  <circle class="cls-1" cx="77.402" cy="22.653" r="4.619"/>
+  <circle class="cls-1" cx="8.948" cy="51.853" r="7.448"/>
+  <circle class="cls-1" cx="38.902" cy="71.406" r="4.201"/>
+  <path class="cls-2" d="M43.633,3.255A15.383,15.383,0,0,1,25.555,27.694,15.386,15.386,0,1,0,43.633,3.255Z"/>
+  <path class="cls-2" d="M60.051,41.465a7.252,7.252,0,0,1-8.132,11.018A7.25,7.25,0,1,0,60.051,41.465Z"/>
+  <path class="cls-2" d="M77.842,18.079a4.609,4.609,0,0,1-4.273,6.36c-0.151,0-.293-0.03-0.44-0.044A4.613,4.613,0,1,0,77.842,18.079Z"/>
+  <path class="cls-2" d="M11.219,44.761a7.444,7.444,0,0,1-8.376,11.35A7.446,7.446,0,1,0,11.219,44.761Z"/>
+  <path class="cls-2" d="M39.026,67.217a4.159,4.159,0,0,1,.243,1.355,4.2,4.2,0,0,1-4.2,4.2c-0.043,0-.082-0.011-0.125-0.013A4.192,4.192,0,1,0,39.026,67.217Z"/>
+  <circle class="cls-3" cx="36.511" cy="16.891" r="15.391"/>
+  <circle class="cls-3" cx="57.902" cy="48.391" r="7.25"/>
+  <circle class="cls-3" cx="77.402" cy="22.653" r="4.619"/>
+  <circle class="cls-3" cx="8.948" cy="51.853" r="7.448"/>
+  <circle class="cls-3" cx="38.902" cy="71.406" r="4.201"/>
+</svg>

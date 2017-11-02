@@ -1,0 +1,15 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54.25 34.915">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #3d3e40;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <title>logo_bowl</title>
+  <path class="cls-1" d="M52.75,7.79a25.625,25.625,0,0,1-51.25,0S52.75-6.362,52.75,7.79Z" transform="translate(0 0)"/>
+  <path class="cls-1" d="M1.5,7.79S47-4.585,51.75,5.688c.971,2.1-11.76,4.188-27.5,4.188S1.5,7.79,1.5,7.79" transform="translate(0 0)"/>
+</svg>
