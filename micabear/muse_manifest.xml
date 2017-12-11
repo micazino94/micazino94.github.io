@@ -1,0 +1,159 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MicaBear.com" resolutions="1x" timestamp="1513014203378">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="373180216" ref="about:stuffed-animals:frozen:clothing:index"/>
+    <file name="about.css" crc="91287724" ref="about"/>
+    <file name="stuffed-animals.css" crc="4244202622" ref="stuffed-animals"/>
+    <file name="frozen.css" crc="525111810" ref="frozen"/>
+    <file name="clothing.css" crc="431979825" ref="clothing"/>
+    <file name="index.css" crc="406525230" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="build_a_bear_workshop_logo_detail_workshop.webp" crc="3812596737" seo="true" mt="1513004530000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:stuffed-animals:clothing:about:frozen"/>
+    <file name="museutils.js" crc="4232573551" ref="index:stuffed-animals:clothing:about:frozen"/>
+    <file name="whatinput.js" crc="86476730" ref="index:stuffed-animals:clothing:about:frozen"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:stuffed-animals:clothing:about:frozen"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:stuffed-animals:clothing:about:frozen"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:stuffed-animals:clothing:about:frozen"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:stuffed-animals:clothing:about:frozen"/>
+    <file name="require.js" crc="4234670167" ref="index:stuffed-animals:clothing:about:frozen"/>
+  </folder>
+  <folder name="images">
+    <file name="user-icon.jpg" crc="4116482733" seo="true" ref="index:stuffed-animals:clothing:about:frozen">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="clothing" alt=""/>
+      <caption webpage="frozen" alt=""/>
+      <caption webpage="stuffed-animals" alt=""/>
+    </file>
+    <file name="207002b96d6f0d90f16006d14ad93359.png" crc="187696964" seo="true" ref="index:stuffed-animals:clothing:about:frozen">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="clothing" alt=""/>
+      <caption webpage="frozen" alt=""/>
+      <caption webpage="stuffed-animals" alt=""/>
+    </file>
+    <file name="glistenanimation-cs-desktop.gif" crc="468531426" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="starwars_chewbaccabear_cs_d_1600x500--20171030.jpg" crc="4119296101" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frozen_cs_d (1).jpg" crc="4100356807" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sportscentral_cs_d_1600x500.jpg" crc="3996185632" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="social-icons.png" crc="504328525" seo="true" ref="index:stuffed-animals:clothing:about:frozen">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="clothing" alt=""/>
+      <caption webpage="frozen" alt=""/>
+      <caption webpage="stuffed-animals" alt=""/>
+    </file>
+    <file name="build_a_bear_workshop_logo_detail.jpg" crc="4194262525" seo="true" ref="index:stuffed-animals:clothing:about:frozen">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="clothing" alt=""/>
+      <caption webpage="frozen" alt=""/>
+      <caption webpage="stuffed-animals" alt=""/>
+    </file>
+    <file name="u1236.png" crc="4101867333" ref="stuffed-animals"/>
+    <file name="u1233.png" crc="159650034" ref="stuffed-animals"/>
+    <file name="u1234.png" crc="4019965904" ref="stuffed-animals"/>
+    <file name="24195x.jpg" crc="251951639" seo="true" ref="stuffed-animals">
+      <caption webpage="stuffed-animals" alt=""/>
+    </file>
+    <file name="25261x.jpg" crc="520955833" seo="true" ref="stuffed-animals">
+      <caption webpage="stuffed-animals" alt=""/>
+    </file>
+    <file name="24914x.jpg" crc="4177066261" seo="true" ref="stuffed-animals">
+      <caption webpage="stuffed-animals" alt=""/>
+    </file>
+    <file name="24927_24937_24938_25177_24929x.jpg" crc="4210684304" seo="true" ref="stuffed-animals">
+      <caption webpage="stuffed-animals" alt=""/>
+    </file>
+    <file name="25149x.jpg" crc="503441469" seo="true" ref="stuffed-animals">
+      <caption webpage="stuffed-animals" alt=""/>
+    </file>
+    <file name="22556x.jpg" crc="3858808238" seo="true" ref="stuffed-animals:frozen">
+      <caption webpage="stuffed-animals" alt=""/>
+      <caption webpage="frozen" alt=""/>
+    </file>
+    <file name="25322x.jpg" crc="99478460" seo="true" ref="stuffed-animals">
+      <caption webpage="stuffed-animals" alt=""/>
+    </file>
+    <file name="25137x.jpg" crc="3865812760" seo="true" ref="stuffed-animals">
+      <caption webpage="stuffed-animals" alt=""/>
+    </file>
+    <file name="25087x.jpg" crc="4274346728" seo="true" ref="stuffed-animals">
+      <caption webpage="stuffed-animals" alt=""/>
+    </file>
+    <file name="u1454.png" crc="4101867333" ref="clothing"/>
+    <file name="u1451.png" crc="159650034" ref="clothing"/>
+    <file name="u1453.png" crc="4019965904" ref="clothing"/>
+    <file name="24067x.jpg" crc="4294365277" seo="true" ref="clothing">
+      <caption webpage="clothing" alt=""/>
+    </file>
+    <file name="25179x.jpg" crc="394762235" seo="true" ref="clothing">
+      <caption webpage="clothing" alt=""/>
+    </file>
+    <file name="24356x.jpg" crc="507292059" seo="true" ref="clothing">
+      <caption webpage="clothing" alt=""/>
+    </file>
+    <file name="25205x.jpg" crc="92342197" seo="true" ref="clothing">
+      <caption webpage="clothing" alt=""/>
+    </file>
+    <file name="24400x.jpg" crc="4005849385" seo="true" ref="clothing">
+      <caption webpage="clothing" alt=""/>
+    </file>
+    <file name="20028x.jpg" crc="4134337594" seo="true" ref="clothing">
+      <caption webpage="clothing" alt=""/>
+    </file>
+    <file name="23494x.jpg" crc="410834268" seo="true" ref="clothing">
+      <caption webpage="clothing" alt=""/>
+    </file>
+    <file name="21897x.jpg" crc="406239946" seo="true" ref="clothing">
+      <caption webpage="clothing" alt=""/>
+    </file>
+    <file name="23324x.jpg" crc="320345401" seo="true" ref="clothing">
+      <caption webpage="clothing" alt=""/>
+    </file>
+    <file name="brand-about-story-hero2.jpg" crc="462534575" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="sharon-john.jpg" crc="296668560" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="frozen_bb_d.jpg" crc="110993043" seo="true" ref="frozen">
+      <caption webpage="frozen" alt=""/>
+    </file>
+    <file name="u1035.png" crc="4101867333" ref="frozen"/>
+    <file name="u1038.png" crc="159650034" ref="frozen"/>
+    <file name="u1041.png" crc="4019965904" ref="frozen"/>
+    <file name="25340x.jpg" crc="4181320744" seo="true" ref="frozen">
+      <caption webpage="frozen" alt=""/>
+    </file>
+    <file name="25340_25284_22143_20389x.jpg" crc="58966182" seo="true" ref="frozen">
+      <caption webpage="frozen" alt=""/>
+    </file>
+    <file name="25283x.jpg" crc="58198207" seo="true" ref="frozen">
+      <caption webpage="frozen" alt=""/>
+    </file>
+    <file name="22024x.jpg" crc="360309378" seo="true" ref="frozen">
+      <caption webpage="frozen" alt=""/>
+    </file>
+    <file name="24219x.jpg" crc="277798288" seo="true" ref="frozen">
+      <caption webpage="frozen" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="525918964" seo="true" mt="1513013440909" redirect="true"/>
+  <file name="stuffed-animals.html" crc="3897945761" seo="true" mt="1513013440909" redirect="true"/>
+  <file name="clothing.html" crc="315516111" seo="true" mt="1513013766033" redirect="true"/>
+  <file name="about.html" crc="502018537" seo="true" mt="1513014068711" redirect="true"/>
+  <file name="frozen.html" crc="82741469" seo="true" mt="1513013440909" redirect="true"/>
+</manifest>
